@@ -2,6 +2,8 @@
 * Self-paced ["Introduction to GitHub"](https://github.github.io/on-demand) (for true beginners)
 * Learn Git in your [browser](https://try.github.io/)
 * Explore Git Branching in this interactive [sandbox](http://learngitbranching.js.org/)
+* Training manuals provided by GitHub. contact me for more details about these training-manuals
+* GitHub Guides [YouTube Channel](https://www.youtube.com/c/githubguides). 
 
 ## Open Source training materials from GitHub
 * https://github.com/github/training-kit
