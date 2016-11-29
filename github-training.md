@@ -4,10 +4,7 @@
 * Explore Git Branching in this interactive [sandbox](http://learngitbranching.js.org/)
 * Training manuals provided by GitHub. contact me for more details about these training-manuals
 * GitHub Guides [YouTube Channel](https://www.youtube.com/c/githubguides). 
-
-## Open Source training materials from GitHub
-* https://github.com/github/training-kit
-* https://github.com/github/training-utils
+* [GitHub Training on Vimeo](https://vimeo.com/channels/797771)
 
 ## Open Source training materials from GitHub
 Useful for creating your own training courses
