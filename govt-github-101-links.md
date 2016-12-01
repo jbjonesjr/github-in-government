@@ -16,6 +16,7 @@
 
 ### Proficent Pull Requests and Code Review
 * [atom/atom](https://www.github.com/atom/atom/pulls)
+* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 ### Worklow & Branching Strategies
 A few links to various sites and discussions of branching strategies I share with users who have questions. In general, I suggest branches be created for all bug fixes and new features, and if it is a particularly large change, you can have a "branch of branches."
