@@ -6,6 +6,9 @@
 * GitHub Guides [YouTube Channel](https://www.youtube.com/c/githubguides). 
 * [GitHub Training on Vimeo](https://vimeo.com/channels/797771)
 
+## GitHub training videos
+* 
+
 ## Open Source training materials from GitHub
 Useful for creating your own training courses
 * https://github.com/github/training-kit
