@@ -27,6 +27,7 @@ Useful for creating your own training courses
 
 ## Government created training
 * DHS/USCIS created their own training course that they have used to onboard their agencies users. It runs entirely from their GitHub Enterprise instance.
+* Will Slack of GSA 18F - [Intro to GitHub for Newcomers (non-technical folks)](https://youtu.be/uNa9GOtM6NE) 
 
 ## GitHub Led Classroom training
 * GitHub will teach in-preson, classroom based training. [Contact](https://services.github.com/contact/) the GitHub Services team for more information.
