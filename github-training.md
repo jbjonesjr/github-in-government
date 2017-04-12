@@ -29,5 +29,13 @@ Useful for creating your own training courses
 * DHS/USCIS created their own training course that they have used to onboard their agencies users. It runs entirely from their GitHub Enterprise instance.
 * Will Slack of GSA 18F - [Intro to GitHub for Newcomers (non-technical folks)](https://youtu.be/uNa9GOtM6NE) 
 
+## Government created onboarding and documentation
+* [18F Guide to GitHub](https://handbook.18f.gov/github/) is a wonderful overview for using GitHub within the Government.
+* [Setting up your agency on GitHub - 18F](https://pages.18f.gov/open-source-program/setting-up-github/)
+* [18F open source policy - in practice](https://github.com/18F/open-source-policy/blob/master/practice.md)
+* [Community-driven best practices for Government usage](http://government.github.io/best-practices/)
+* [LLNL guidelines for using GitHub](https://software.llnl.gov/about/using-github/)
+  
+
 ## GitHub Led Classroom training
 * GitHub will teach in-preson, classroom based training. [Contact](https://services.github.com/contact/) the GitHub Services team for more information.
