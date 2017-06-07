@@ -8,6 +8,7 @@ Included are some relevant links that have often been shared with :us: Governmen
 ## IBM, Cultural Change, and the intersection of tooling and innovation
 - https://www.ibm.com/developerworks/library/d-rtc-github-migration/index.html
 - https://medium.com/@BillHiggins/tools-as-a-catalyst-for-culture-change-f012b2c0b527
+- https://www.ibm.com/blogs/bluemix/2017/06/improve-teams-productivity-using-github-devops-docs/
 - GitHub Change Impact - https://semmle.com/customers/github-change-impact/
 
 ## GitHub training details
