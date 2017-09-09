@@ -13,6 +13,7 @@
 * [GSA Federalist](https://federalist.18f.gov/)
 * [18F Micro-purchase](https://micropurchase.18f.gov/) | [Repo](https://github.com/18F/micropurchase/
 * [GSA Agile BPA](https://pages.18f.gov/ads-bpa/) | [Repo](https://github.com/18F/ads-bpa) Actual TO have their own repos
+* [GSA Open Source Policy](https://open.gsa.gov/code/) | Also talks about best practices for open sourcing
 
 ### Proficent Pull Requests and Code Review
 * [atom/atom](https://www.github.com/atom/atom/pulls)
