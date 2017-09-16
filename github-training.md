@@ -32,6 +32,21 @@ Useful for creating your own training courses
 * https://github.com/github/training-kit
 * https://github.com/github/training-utils
 
+## Government Guides
+[18F Development Guidelines](https://github.com/18F/development-guide), A set of guidelines and best practices for an awesome engineering team. Including:
+```
+* Code Review
+* Git Protocol
+* Project Setup
+* Example Workflows
+* Architecture Reviews
+* Ruby Guide
+* Language Selection Guidance
+* Accessibility Scanning Guide
+* People Guidance
+* Continuous Deployment with Autopilot Guide
+```
+
 ## Government created training
 * DHS/USCIS created their own training course that they have used to onboard their agencies users. It runs entirely from their GitHub Enterprise instance.
 * Will Slack of GSA 18F - [Intro to GitHub for Newcomers (non-technical folks)](https://youtu.be/uNa9GOtM6NE) 
@@ -43,6 +58,7 @@ Useful for creating your own training courses
 * [18F open source policy - in practice](https://github.com/18F/open-source-policy/blob/master/practice.md)
 * [Community-driven best practices for Government usage](http://government.github.io/best-practices/)
 * [LLNL guidelines for using GitHub](https://software.llnl.gov/about/using-github/)
+* [Government source to open source, from CFPB](https://github.com/cfpb/open-source-checklist)
 
 ## GraphQL
 - [Learning GraphQL](https://learngraphql.com/)
