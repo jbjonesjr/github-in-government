@@ -59,6 +59,7 @@ Useful for creating your own training courses
 * [Community-driven best practices for Government usage](http://government.github.io/best-practices/)
 * [LLNL guidelines for using GitHub](https://software.llnl.gov/about/using-github/)
 * [Government source to open source, from CFPB](https://github.com/cfpb/open-source-checklist)
+* [18F open source guide](https://open-source-guide.18f.gov/)
 
 ## GraphQL
 - [Learning GraphQL](https://learngraphql.com/)
